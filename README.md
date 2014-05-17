@@ -1,0 +1,2 @@
+##README
+This repo is created as part of the course requirements for he Coursera.org course "The Data SCientist's Toolbox". It will serves as a means of providing me with a platform to learn and use Git Versioning system and the GitHub online service
